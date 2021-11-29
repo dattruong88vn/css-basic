@@ -6,4 +6,4 @@ Bao gồm 3 projects:
 
    - Cài extension "Open With Live Server" để tự refresh file html.
 
-2. feature của nhánh 1
+2. Update file readme nhánh 22222
